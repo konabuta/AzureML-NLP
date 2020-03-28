@@ -3,15 +3,10 @@
 本リポジトリでは、Azure Machine Learning を利用した日本語の自然言語処理 NLP モデル構築のサンプルコードを提供します。Microsoft の [NLP Best Practice](https://github.com/microsoft/nlp-recipes) を参考にしています。
 
 ## コンテンツ
-<style>
-table td span {
-	white-space: nowrap;
-}
-</style>
 
 |   シナリオ    |  モデル |  概要 |  対応言語  |
 |:-------------|:--------|:-------|:-----------|
-|テキスト分類   |  BERT  | テキスト分類は、テキストのカテゴリーを学習し、予測する教師付き学習の 1 つです。 |Japanese|
+|  テキスト分類   |  BERT (HuggingFace) | テキスト分類は、テキストのカテゴリーを学習し、予測する教師付き学習の 1 つです。 |Japanese|
 
 ## Get started
 
