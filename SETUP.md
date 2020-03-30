@@ -51,7 +51,7 @@ You can learn how to create a Notebook VM [here](https://docs.microsoft.com/en-u
          * http://jaist.dl.sourceforge.net/project/mecab/mecab-ipadic/2.7.0-20070801/mecab-ipadic-2.7.0-20070801.tar.gz
      * 辞書のインストール
          ```bash
-         wget -O <上記 URL>
+         wget <上記 URL>
          tar zxvf mecab-ipadic-2.7.0-20070801.tar.gz
          cd mecab-ipadic-2.7.0-20070801
          ./configure --with-charset=utf8 --enable-utf8-only
