@@ -10,4 +10,4 @@
 
 ## Get started
 
-最初は [Azure Cognitive Service](https://azure.microsoft.com/ja-jp/services/cognitive-services/) の利用検討を推奨します。この学習済みのモデルで対応できない場合は、カスタムで機械学習モデルを構築する必要がございます。まず、[Setup](Setup.md) を参照し、必要なライブラリを導入してください。
+最初は [Azure Cognitive Service](https://azure.microsoft.com/ja-jp/services/cognitive-services/) の利用検討を推奨します。この学習済みのモデルで対応できない場合は、カスタムで機械学習モデルを構築する必要がございます。まず、[Setup](SETUP.md) を参照し、必要なライブラリを導入してください。
